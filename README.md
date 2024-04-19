@@ -62,6 +62,8 @@ $ php artisan serve
 
 ## Screenshots
 
+![image](https://github.com/ugunNet21/laravel-attendance/assets/45864165/b2a02852-0303-4624-bb06-316db6ae3dd2)
+
 
 ### Prerequisites
 - PHP installed
